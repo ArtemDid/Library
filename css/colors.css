@@ -1,0 +1,21 @@
+#div_left
+{
+    background-color: rgb(240, 235, 229);
+}
+#div_right
+{
+    background-color: rgb(221, 214, 207);
+}
+#form
+{
+    background-color: rgb(207, 171, 123);
+}
+#user_name, #user_bith, #user_email, #user_adress, #user_city, #user_reg
+{
+    border: 2px solid rgb(196, 43, 16);
+}
+#user_reg
+{
+    color: azure;
+    background-color: brown;
+}

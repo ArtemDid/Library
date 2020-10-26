@@ -1,0 +1,21 @@
+#div_left
+{
+    background-color: #dddddd;
+}
+#div_right
+{
+    background-color: #cccccc;
+}
+#form
+{
+    background-color: #deb887;
+}
+#user_name, #user_bith, #user_email, #user_adress, #user_city, #user_reg
+{
+    border: 2px solid #a52a2a;
+}
+#user_reg
+{
+    color: azure;
+    background-color: #a52a2a;
+}
